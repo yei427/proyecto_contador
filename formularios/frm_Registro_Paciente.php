@@ -15,7 +15,6 @@
         Apellido <input type="text" name="lastname" id="lastname" required/>
         Dirección <input type="text" name="adress" id="adress" required/>
         Telefono Celular <input type="number" name="phone_number" id="phone_number" required/>
-        Telefono Fijo <input type="number" name="fixed_number" id="fixed_number" />
         Ciudad <input type="text" name="city" id="city" required/>
         Email <input type="email" name="email" id="email" required/>
         Tipo de Id <select name="type_D">

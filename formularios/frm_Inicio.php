@@ -12,7 +12,7 @@
         <form action="../php/validar.php" method="post" name="Inicio_Sesion" class="formulario">
 
 
-            Usuario
+            Correo:
             <input type="text" name="user" id="user" /><br>
 
             Contraseña:
